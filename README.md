@@ -2,7 +2,10 @@
 Меня зовут Сергей, я начинающий Python разработчик. 
 
 
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+
+ <p align='center'>
+  📫  How to reach me: <a href='mailto:89090168690@mail.ru'>89090168690@mail.ru</a>
+</p>
 
 <!--
 **BotalovSerg/BotalovSerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
