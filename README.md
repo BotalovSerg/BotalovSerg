@@ -7,7 +7,7 @@
   📫  How to reach me: <a href='mailto:89090168690@mail.ru'>89090168690@mail.ru</a>
 </p>
 <p align='center'>
-![Codewars](https://www.codewars.com/users/BotalovSerg/badges/)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
  </p>
  
 
