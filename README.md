@@ -6,7 +6,12 @@
  <p align='center'>
   📫  How to reach me: <a href='mailto:89090168690@mail.ru'>89090168690@mail.ru</a>
 </p>
+<p align='center'>
+![Codewars]([https://img.shields.io/badge](https://www.codewars.com/users/BotalovSerg/badges/micro)/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+ </p>
+ 
 
+ 
 <!--
 **BotalovSerg/BotalovSerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
