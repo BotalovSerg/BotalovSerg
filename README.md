@@ -1,5 +1,5 @@
 <h1>Hello world 👋</h1>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BotalovSerg&show_icons=true&theme=radical)
 
 
 
@@ -13,7 +13,7 @@
 <p align="center">
   📫  How to reach me: <a href='mailto:89090168690@mail.ru'>89090168690@mail.ru</a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BotalovSerg&show_icons=true&theme=radical)
+
 
 
 ![Codewars](https://www.codewars.com/users/BotalovSerg/badges/micro)
