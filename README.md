@@ -15,7 +15,7 @@
 </p>
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BotalovSerg&show_icons=true&theme=radical)
 ![Codewars](https://www.codewars.com/users/BotalovSerg/badges/micro)
 
 
