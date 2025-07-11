@@ -1,6 +1,8 @@
 # Привет, я Сергей 👋
 
 **Backend Developer (Python) | DevOps Enthusiast**
+## 💡 Обо мне
+- 🌱 Изучаю: Python, DevOps (Docker, Kubernetes), C++
 
 [![Email](https://img.shields.io/badge/Email-89090168690@mail.ru-D14836?style=flat&logo=gmail&logoColor=white)](mailto:89090168690@mail.ru)
 [![Codewars](https://img.shields.io/badge/Codewars-BotalovSerg-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/BotalovSerg)
@@ -40,10 +42,5 @@
 - [Проект 2](https://github.com/BotalovSerg/telegram-bot-notes) - Telegram bot
 
 ---
-
-## 💡 Обо мне
-
-- 🔭 Сейчас работаю над: [Название проекта]
-- 🌱 Изучаю: DevOps (Docker, Kubernetes), C++
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BotalovSerg&label=Profile+Views&color=blueviolet)
