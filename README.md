@@ -1,5 +1,4 @@
 <h1>Hello world 👋</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BotalovSerg&show_icons=true&theme=radical)
 
 
 
@@ -15,9 +14,9 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BotalovSerg&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BotalovSerg&show_icons=true)
 ![Codewars](https://www.codewars.com/users/BotalovSerg/badges/micro)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BotalovSerg&layout=compact)
 
 <!--
 **BotalovSerg/BotalovSerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
