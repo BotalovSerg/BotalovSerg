@@ -30,7 +30,7 @@
 
 ## 🏆 Codewars
 
-![Codewars Badges](https://www.codewars.com/users/BotalovSerg/badges/large)
+![Codewars Badges](https://www.codewars.com/users/BotalovSerg/badges/small)
 
 ---
 
